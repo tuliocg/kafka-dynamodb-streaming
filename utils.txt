@@ -1,0 +1,2 @@
+docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html#ce-docker-quickstart
+https://developer.confluent.io/learn-kafka/#read
